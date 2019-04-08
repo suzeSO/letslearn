@@ -55,3 +55,5 @@ from the command line before you can start work. all javascript projects made wi
 * js documentation <https://developer.mozilla.org/en-US/docs/Web/JavaScript>
 
 * google your errors! chances are someone else has had this problem before - learn from them and from what their community said to help them. a good place to go is Stack Overflow, and these are often the first links you'll see when googling an error. remember that very often the answers given to another person won't map one to one with the specifics of your problem - it's up to you to use the information you find and adapt it to solve the error you have, and its causes.
+
+* useful keywords for thinking about and researching this task are `class`, `class method`, and `return value`
